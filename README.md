@@ -17,7 +17,7 @@ git clone https://github.com/abinongbey/metasploit.git
 
 cd metasploit
 
-bash metasploit.sh
+bash metasploit.sh '''
 
 
 #That's it, I hope you would install it without problems in your termux apk
