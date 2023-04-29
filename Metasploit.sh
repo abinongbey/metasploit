@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 clear
 
-toilet Metasploit in termux by Abinong Bey -f smblock
+toilet Metasploit by Abinong Bey -f smblock
 
 center() {
   termwidth=$(stty size | cut -d" " -f2)
